@@ -1,5 +1,5 @@
-# IMLO-Open-Assessment
-**Intelligent Systems: Machine Learning and Optimisation Individual Open Assessment**
+# IMLO_Assessment
+**Intelligent Systems: Machine Learning and Optimisation Individual Assessment**
 
 ## Overview
 
